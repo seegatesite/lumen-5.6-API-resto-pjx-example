@@ -1,3 +1,9 @@
+# How To
+1. Download all project
+2. Create new database as restopjx
+3. Edit .env file to configure your database
+4. Download front-end with angular 5 at <a href="https://github.com/seegatesite/Simple-CRUD-Application-using-Angular-5">https://github.com/seegatesite/Simple-CRUD-Application-using-Angular-5 </a>
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
